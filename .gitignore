@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.wav
+*.mp4
+*.mov
+*.mkv
+.cache/
+tmp/
+temp/
+_smoke_test/
